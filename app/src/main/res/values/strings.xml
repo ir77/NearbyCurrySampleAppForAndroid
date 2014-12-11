@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">近所のカレー屋</string>
+    <string name="no_geocoder_available">現在位置が取得できませんでした</string>
+    <string name="no_shop_available">ショップ情報が取得できませんでした</string>
+
+</resources>
